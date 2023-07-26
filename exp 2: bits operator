@@ -1,0 +1,21 @@
+#include<bits/stdc++.h>
+using namespace std;
+int main(){
+    int a,b;
+    cin>>a>>b;
+int z=a|b;
+    cout<<z<<endl;
+z=a&b;
+    cout<<z<<endl;
+z=a^b;
+    cout<<z<<endl;
+    return 0;
+}
+/*/
+NAME : TARIQ AKHLAK
+PRN : 22070123124
+enter integer a and b;
+output 1 : a|b;
+output 2 : a&b;
+output 3 : a^b;
+/*/
